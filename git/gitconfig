@@ -1,9 +1,9 @@
 [user]
-name = Shawn Rider
-email = shawn@shawnrider.com
+name = Matt Baldwin
+email = baldwinmathew@gmail.com
 
 [github]
-user = shawnr
+user = baldwinmathew
 password = !security 2>&1 >/dev/null find-generic-password -gs github.password | ruby -e 'print $1 if STDIN.gets =~ /^password: \\\"(.*)\\\"$/'
 
 [push]
